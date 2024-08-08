@@ -14,6 +14,12 @@ FacMata机场，接入多地区高速跨境链路，上联 5Gbps 冗余，承载
 
 临时启动年付优惠码 ANNUALLY-30OFF 可在任意套餐的 年付选项 激活 30% 折扣。
 
+设置常驻常规优惠码： 
+
+ANNUALLY-20OFF 年付及以上 八折 
+
+QUARTERLY/SEMIANNUALLY-10OFF 半年付和季付 九折
+
 ## FacMata价格
 
 |套餐|Standard Mini|Standard Lite|Standard|
