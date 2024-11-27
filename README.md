@@ -1,6 +1,6 @@
 # FacMata机场官网地址
 
-最新地址：[fmta.boo](https://board.fmta.boo/#/register?code=49S2W2KZ)
+最新地址：[fmta.boo](https://ooo.fmta.boo/register?code=49S2W2KZ)
 
 ## FacMata介绍
 
@@ -12,7 +12,11 @@ FacMata机场，接入多地区高速跨境链路，上联 5Gbps 冗余，承载
 
 ## FacMata优惠码
 
-临时启动年付优惠码 ANNUALLY-30OFF 可在任意套餐的 年付选项 激活 30% 折扣。
+使用 ANNUALLY-30OFF 在所有年付套餐上获得 30% 折扣 🎉
+
+有效期：即日起到 12.2 上午！
+
+使用优惠码方法：输入优惠码后点击验证，价格即会更新！
 
 设置常驻常规优惠码： 
 
