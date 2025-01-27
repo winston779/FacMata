@@ -12,17 +12,15 @@ FacMata机场，接入多地区高速跨境链路，上联 5Gbps 冗余，承载
 
 ## FacMata优惠码
 
-使用 ANNUALLY-30OFF 在所有年付套餐上获得 30% 折扣 🎉
+新春七折优惠码：ANNUALLY-30OFF
 
-有效期：即日起到 12.2 上午！
+设置常驻常规优惠码：
 
-使用优惠码方法：输入优惠码后点击验证，价格即会更新！
-
-设置常驻常规优惠码： 
-
-ANNUALLY-20OFF 年付及以上 八折 
+ANNUALLY-20OFF 年付及以上 八折
 
 QUARTERLY/SEMIANNUALLY-10OFF 半年付和季付 九折
+
+ANNUALLY-30OFF 在任意年付套餐上使用，从现在至 2.5 上午
 
 ## FacMata价格
 
